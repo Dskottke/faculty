@@ -9,9 +9,6 @@ public class Main {
         if (value < 0) {
             return 0;
         }
-        if (value == 0) {
-            return 1;
-        }
 
         int facValue = 1;
 
